@@ -1,10 +1,10 @@
 # Kiw-kiw-Basdat
-KiwKiw Uas Basdat
+KiwKiw Uas Basdat<br><br>
 
-Ketua: Aryasatya Wicaksana (231401114)
-Anggota: - Jeremy Alphares Napitupulu (231401051)
-         - Bhenarezky Suranta Ginting (231401003)
-         - Simon Maspero Parluhutan Hutapea (231401123)
+Ketua: Aryasatya Wicaksana (231401114)<br>
+Anggota: - Jeremy Alphares Napitupulu (231401051)<br>
+         - Bhenarezky Suranta Ginting (231401003)<br>
+         - Simon Maspero Parluhutan Hutapea (231401123)<br><br>
 
 link projek github: https://github.com/AryasatyaWicaksana/Kiw-kiw-cinemalist
 
