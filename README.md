@@ -3,8 +3,8 @@ KiwKiw Uas Basdat<br><br>
 
 Ketua: Aryasatya Wicaksana (231401114)<br>
 Anggota: - Jeremy Alphares Napitupulu (231401051)<br>
-         - Bhenarezky Suranta Ginting (231401003)<br>
-         - Simon Maspero Parluhutan Hutapea (231401123)<br><br>
+---------- Bhenarezky Suranta Ginting (231401003)<br>
+---------- Simon Maspero Parluhutan Hutapea (231401123)<br><br>
 
 link projek github: https://github.com/AryasatyaWicaksana/Kiw-kiw-cinemalist
 
