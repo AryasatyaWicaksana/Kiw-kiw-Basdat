@@ -7,9 +7,9 @@ CREATE TABLE user_list (
 );
 
 CREATE TABLE movie_list (
-	movie_id INT UNIQUE PRIMARY KEY NOT NULL,
+    movie_id INT UNIQUE PRIMARY KEY NOT NULL,
     title VARCHAR(200) NOT NULL,
-	movie_year INT NOT NULL,
+    movie_year INT NOT NULL,
     poster_path TEXT NOT NULL,
     rating DECIMAL(3,1) NOT NULL,
     genre VARCHAR(255) NOT NULL,
